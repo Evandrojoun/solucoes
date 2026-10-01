@@ -17,22 +17,22 @@
 
 ## Progresso no Curso
 
-| Aula | Título / Tema | Status |
-|------|---------------|--------|
-| 1  | Apresentação do curso e materiais | ⬜ Pendente |
-| 2  | Trajetória de Raoni Rossetti | ⬜ Pendente |
-| 3  | Proventos: dividendos, JCP, dividendo sintético | ⬜ Pendente |
-| 4  | Seleção de ativos e Regra dos 7 Dias | ⬜ Pendente |
-| 5  | Compra de call: conceitos e payoff | ⬜ Pendente |
-| 6  | Venda descoberta: o que NUNCA fazer | ⬜ Pendente |
-| 7  | Estratégia de Dividendos Ativos (2 pernas) | ⬜ Pendente |
-| 8  | Operacional no Profit: passo a passo | ⬜ Pendente |
-| 9  | Planilha de controle | ⬜ Pendente |
-| 10 | Conclusão e estratégias avançadas | ⬜ Pendente |
-| 14 | Aula ao vivo: taxas, estratégia combinada, cenários | ⬜ Pendente |
-| 15 | Aula ao vivo: análise de CIRE3, execução completa | ⬜ Pendente |
+| Aula | Título / Tema | Status | Transcrição |
+|------|---------------|--------|-------------|
+| 1  | Apresentação do curso e materiais | ✅ Concluída | `aulas/aula1_transcricao.txt` |
+| 2  | Trajetória de Raoni Rossetti | ✅ Concluída | `aulas/aula2_transcricao.txt` |
+| 3  | Proventos: dividendos, JCP, dividendo sintético | ✅ Concluída | `aulas/aula3_transcricao.txt` |
+| 4  | Seleção de ativos e Regra dos 7 Dias | ✅ Concluída | `aulas/aula4_transcricao.txt` |
+| 5  | Compra de call: conceitos e payoff | ✅ Concluída | `aulas/aula5_transcricao.txt` |
+| 6  | Venda descoberta: o que NUNCA fazer | ✅ Concluída | `aulas/aula6_transcricao.txt` |
+| 7  | Estratégia de Dividendos Ativos (2 pernas) | ✅ Concluída | `aulas/aula7_transcricao.txt` |
+| 8  | Operacional no Profit: passo a passo | ✅ Concluída | `aulas/aula8_transcricao.txt` |
+| 9  | Planilha de controle | ✅ Concluída | `aulas/aula9_transcricao.txt` |
+| 10 | Conclusão e estratégias avançadas | ✅ Concluída | `aulas/aula10_transcricao.txt` |
+| 14 | Aula ao vivo: taxas, estratégia combinada, cenários | ✅ Concluída | `aulas/aula14_transcricao.txt` |
+| 15 | Aula ao vivo: análise de CIRE3, execução completa | ✅ Concluída | `aulas/aula15_transcricao.txt` |
 
-> Marque como ✅ Concluída quando assistir e entender a aula.
+> Conteúdo disponível via transcrições em `aulas/`. Nova lê os `.txt` ao invés dos vídeos `.mp4`.
 
 ---
 
